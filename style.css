@@ -52,19 +52,19 @@ main {
 }
 
 #input-name {
-  width: 49.4%;
+  width: 39.4%;
 }
 
 #input-lastname {
-  width: 49.4%;
+  width: 39.4%;
 }
 
 #input-email {
-  width: 49.4%;
+  width: 39.4%;
 }
 
 #house {
-  width: 49.4%;
+  width: 39.4%;
 }
 
 /* Avalia a Trybe */
@@ -88,6 +88,13 @@ main {
   margin-bottom: 20px;
   width: 675px;
   padding: 5px 40px;
+}
+
+#buttonSubmit{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: 75px;
+  height: 19px;
 }
 
 hr {
